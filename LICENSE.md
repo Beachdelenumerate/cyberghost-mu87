@@ -1,4 +1,4 @@
-
+Enhance your CyberGhost experience with CyberGhost automatic Plugin: DNS-leak-protection & NAT-firewall, the #1 plugin. Includes DNS-leak-protection and NAT-firewall for a safer
 
 
 
